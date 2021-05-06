@@ -6,3 +6,4 @@
 "# button3" 
 "# chessboard.html" 
 "# chessboard.html" 
+"# external.html" 
