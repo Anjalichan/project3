@@ -7,3 +7,4 @@
 "# chessboard.html" 
 "# chessboard.html" 
 "# external.html" 
+"# sample1" 
